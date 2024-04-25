@@ -1,0 +1,12 @@
+{
+  "name": "aulaestudooojava",
+  "version": "1.0.0",
+  "description": "apenas eu testando minhas habilidades e capacidades em java",
+  "main": "2_.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bergas vulgo bernardo vulgo Berga-tman",
+  "license": "ISC",
+  "type": "module"
+}
